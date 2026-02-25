@@ -1,8 +1,8 @@
 const { google } = require("googleapis");
 const fs = require("fs");
 
-const API_KEY = "AIzaSyAP1_yYCBMsCxNPNDHUYIBdc1s_who-u-g";
-const CHANNEL_ID = "UCnkEhPBMZcEO0QGu51fDFDg";
+const API_KEY = "";
+const CHANNEL_ID = "";
 
 const youtube = google.youtube({
   version: "v3",
