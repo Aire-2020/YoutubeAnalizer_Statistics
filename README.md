@@ -28,6 +28,9 @@ For each video:
 1. Install dependencies: npm install
 2. Add your YouTube Data API key in `index.js`
 3. Run the script: node index.js
+4. Open the generated file:
+After execution, the file `statistics.json` will be created in the project root directory.  
+Open it with any code editor (e.g., VS Code) or a JSON viewer to inspect the collected data.
 
 ---
 
