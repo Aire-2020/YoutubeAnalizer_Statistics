@@ -44,6 +44,17 @@ The easiest way:
 👉 Use this tool:  
 https://www.tunepocket.com/youtube-channel-id-finder/
 
+## ⚙️ Configuration Variables
+
+Inside `index.js` you will find two important variables that allow you to control the scope of the analysis:
+
+```javascript
+// Number of videos to analyze
+const videosToAnalyze = 100;
+
+// Minimum duration in seconds (e.g., 180 = 3 minutes)
+const minDuration = 60;
+
 ## 🚀 How to Run
 
 1. Install dependencies: npm install
