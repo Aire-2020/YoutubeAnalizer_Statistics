@@ -26,4 +26,10 @@ For each video:
 ## 🚀 How to Run
 
 1. Install dependencies: npm install
-2. Run command: node index.js
+2. Add your YouTube Data API key in `index.js`
+3. Run the script: node index.js
+
+---
+
+This repository was created for academic purposes as part of a statistics project.
+
