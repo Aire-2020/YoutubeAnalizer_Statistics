@@ -54,7 +54,7 @@ const videosToAnalyze = 100;
 
 // Minimum duration in seconds (e.g., 180 = 3 minutes)
 const minDuration = 60;
-
+```
 ## 🚀 How to Run
 
 1. Install dependencies: npm install
