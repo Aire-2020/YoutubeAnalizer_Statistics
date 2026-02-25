@@ -23,6 +23,27 @@ For each video:
 - YouTube Data API v3
 - Google APIs (googleapis npm package)
 
+## 🔑 How to Configure the API Key and Channel ID
+
+### 1️⃣ Get a YouTube Data API v3 Key
+
+1. Go to: https://console.cloud.google.com/
+2. Create a new project (or select an existing one).
+3. Navigate to **APIs & Services → Library**.
+4. Search for **YouTube Data API v3** and click **Enable**.
+5. Go to **APIs & Services → Credentials**.
+6. Click **Create Credentials → API Key**.
+7. Copy the generated API key.
+
+### 2️⃣ Get the Channel ID
+
+You need the **Channel ID** (not the channel name or @username).
+
+The easiest way:
+
+👉 Use this tool:  
+https://www.tunepocket.com/youtube-channel-id-finder/
+
 ## 🚀 How to Run
 
 1. Install dependencies: npm install
